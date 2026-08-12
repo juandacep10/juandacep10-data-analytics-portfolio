@@ -22,3 +22,5 @@ Then enable:
 Settings → Pages → Deploy from branch → `main` → `/ (root)`
 
 This is the most robust version if the previous deployment was showing broken-image icons.
+
+URL: https://juandacep10.github.io/juandacep10-data-analytics-portfolio/
